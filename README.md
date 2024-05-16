@@ -11,3 +11,5 @@
 - 📚 Previously I completed two Python certifications in self-paced online courses by the University of Michigan.
 
 
+Contributing
+
